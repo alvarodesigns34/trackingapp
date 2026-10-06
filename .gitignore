@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+.DS_Store
+
+# Vídeos: no se versionan salvo que se configure Git LFS
+data/**/*.mov
+*.mov
+*.mp4
+*.m4v
+*.avi
+*.mkv
